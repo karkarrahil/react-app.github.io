@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500&family=Poppins:wght@400;600&family=Qwitcher+Grypen:wght@700&display=swap');
+
+* {
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+nav {
+  color: white;
+}
+
+a {
+  color: aliceblue !important;
+}
+
+textarea {
+  background-color: #2C3333 !important;
+}
+
