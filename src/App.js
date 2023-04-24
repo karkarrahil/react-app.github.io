@@ -111,7 +111,7 @@ function App() {
             <div className="container my-4">
 
               <Routes>
-               <Route path="/react-app" element={<TextForm heading="Here Some Logic" showAlert={showAlert} />}></Route>
+               <Route path="/" element={<TextForm heading="Here Some Logic" showAlert={showAlert} />}></Route>
                 <Route path="/about" element={<About mystyle={{ changeStyle }} />}></Route>
                
 
